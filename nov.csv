@@ -1,0 +1,31 @@
+,Day,Condition,Indicator
+0,1,mostly sunny,1
+1,2,mostly sunny,1
+2,3,partly cloudy,0
+3,4,mostly sunny,1
+4,5,mostly sunny,1
+5,6,partly cloudy,0
+6,7,mostly sunny,1
+7,8,partly cloudy,0
+8,9,mostly cloudy,0
+9,10,mostly cloudy,0
+10,11,mostly sunny,1
+11,12,mostly sunny,1
+12,13,mostly sunny,1
+13,14,mostly cloudy,0
+14,15,mostly cloudy,0
+15,16,mostly cloudy,0
+16,17,mostly sunny,1
+17,18,mostly cloudy,0
+18,19,cloudy,0
+19,20,scattered showers,0
+20,21,thunderstorm,0
+21,22,mostly sunny,1
+22,23,mostly cloudy,0
+23,24,mostly cloudy,0
+24,25,mostly cloudy,0
+25,26,mostly sunny,1
+26,27,cloudy,0
+27,28,cloudy,0
+28,29,scattered showers,0
+29,30,partly cloudy,0
